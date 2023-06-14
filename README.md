@@ -1,5 +1,6 @@
 ## An Attentive-based Generative Model for Medical Image Synthesis
-
+> [**An attentive‑based generative model for medical image synthesis**](https://arxiv.org/pdf/2306.01562.pdf)
+> 
 # ADC-CycleGAN
 
 
@@ -60,3 +61,16 @@ GPU.
 ## Test
 After you get the models, you should evaluate the model one by one. Please run "evaluate.ipynb" and change "dataset_path", "weight_path", and "save_path" to your path. All 
 the results will save in “evaluate.txt”. Then you can use excel to analyze the results. 
+
+
+## Citation:
+If you use this code for your research, please cite our paper:
+> @article{wang2023attentive,
+> <br>  title={An attentive-based generative model for medical image synthesis},
+> <br>  author={Wang, Jiayuan and Wu, QM Jonathan and Pourpanah, Farhad},
+> <br>  journal={International Journal of Machine Learning and Cybernetics},
+> <br>  pages={1--14},
+> <br>  year={2023},
+> <br>  publisher={Springer}
+}
+
