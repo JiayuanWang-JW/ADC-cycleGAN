@@ -69,7 +69,7 @@ If you use this code for your research, please cite our paper:
 > <br>  title={An attentive-based generative model for medical image synthesis},
 > <br>  author={Wang, Jiayuan and Wu, QM Jonathan and Pourpanah, Farhad},
 > <br>  journal={International Journal of Machine Learning and Cybernetics},
-> <br>  pages={1--14},
+> <br>  pages={3897–3910},
 > <br>  year={2023},
 > <br>  publisher={Springer}
 }
